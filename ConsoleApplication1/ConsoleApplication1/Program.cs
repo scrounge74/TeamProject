@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.Write("sdf");
             Console.Write("sdsdf");
+            Console.Write("awer");
         }
     }
 }
