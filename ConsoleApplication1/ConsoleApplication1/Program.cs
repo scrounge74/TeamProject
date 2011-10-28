@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.Write("sdf");
             Console.Write("sdsdf");
+            Console.Write("Nichole make Noise in class");
             Console.Write("awer");
             //change made
             //now this line changfed
